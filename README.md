@@ -10,3 +10,8 @@ I stepped through the simulation of the testbench file and took screenshots of e
 [OUT](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform3_out.JPG?raw=true "Instruction 3")
 ######JN
 [JN](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform4_jn.JPG?raw=true "Instruction 4")
+
+
+
+
+Documentation: 22Apr14: C3C Jonas helped me determine how to get the photos to show up in the README file instead of as links.
