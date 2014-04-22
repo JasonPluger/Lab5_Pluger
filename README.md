@@ -5,6 +5,7 @@ This program loads a value of 8 into the accumulator, adds one to the number in 
 I stepped through the simulation of the testbench file and took screenshots of each instruction being executed. See below for the screenshots.
 ######LDAI
 ![LDAI](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform1_ldai.JPG?raw=true "Instruction 1")
+######ADDI
 ![ADDI](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform2_addi.JPG?raw=true "Instruction 2")
 ######OUT
 ![OUT](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform3_out.JPG?raw=true "Instruction 3")
