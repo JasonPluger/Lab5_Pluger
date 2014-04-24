@@ -197,12 +197,13 @@ ROM(175) <= X"0";
 
 	process (Clock)
 	begin
-		if(Clock='0') then
+--		Commented code is not necessary for ROM file
+--		if(Clock='0') then
 			if(Read_Enable = '0') then
 			  Data  <= ROM(conv_integer(Addr));
-		  	else
-			  Data <= "ZZZZ";
-	      	end if;
+--		  	else
+--			  Data <= "ZZZZ";
+--	      	end if;
 		else Data <= "ZZZZ";
 		end if;
 
