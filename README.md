@@ -14,6 +14,13 @@ In this instruction, I circled the parts on the simulation that I looked at to d
 ![JN](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform4_jn.JPG?raw=true "Instruction 4")
 
 
+####Answers to Questions:
+Below is a picture of the questions sheet from Lab 5; I have filled it in with my answers.
+![Questions](https://github.com/JasonPluger/Lab5_Pluger/blob/master/Questions.JPG?raw=true "Q/A")
 
+####Part 2
+My method of attack for completing part 2 of lab 5 consisted of writting out the instructions that I thought would make the program operate correctly on a piece of paper prior to actually coding it in the PRISM computer. Samples of my pseudo-code work are shown below. 
+![Picture 1](urlHere ?raw=true "Picture 1")
+![Picture 2](urlHere ?raw=true "Picture 2")
 
 Documentation: 22Apr14: C3C Jonas helped me determine how to get the photos to show up in the README file instead of as links.
