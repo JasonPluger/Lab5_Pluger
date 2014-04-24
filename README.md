@@ -26,4 +26,14 @@ My method of attack for completing part 2 of lab 5 consisted of writting out the
 #####Commit History
 Throughout the design process of Part 2, as I achieved each new piece of the program, I would save my progress up to that point. However, instead of saving new files each time, I would simply overwrite the same file, and therefore have only the final copy of my PRISM and ROM files committed to git.
 
+
+
+
+
+I meant to email a video of my Part 1 functionality to Dr. Neebel on the evening of 18 Apr, however I failed to do so. He did see my functionality video the following class period, Tues 22 Apr. 
+
+
+
+
+
 Documentation: 22Apr14: C3C Jonas helped me determine how to get the photos to show up in the README file instead of as links.
