@@ -23,4 +23,7 @@ My method of attack for completing part 2 of lab 5 consisted of writting out the
 ![Picture 1](urlHere ?raw=true "Picture 1")
 ![Picture 2](urlHere ?raw=true "Picture 2")
 
+#####Commit History
+Throughout the design process of Part 2, as I achieved each new piece of the program, I would save my progress up to that point. However, instead of saving new files each time, I would simply overwrite the same file, and therefore have only the final copy of my PRISM and ROM files committed to git.
+
 Documentation: 22Apr14: C3C Jonas helped me determine how to get the photos to show up in the README file instead of as links.
