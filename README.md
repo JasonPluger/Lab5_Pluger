@@ -30,9 +30,9 @@ Throughout the design process of Part 2, as I achieved each new piece of the pro
 
 
 
-  I meant to email a video of my Part 1 functionality to Dr. Neebel on the evening of 18 Apr, however I failed to do so. He did see my functionality video the following class period, Tues 22 Apr 14. 
-  Dr. Neebel checked my PRISM Part 2 implementation on 24Apr14. 
-  Dr. Neebel checked my FPGA implementation of my PRSIM Part 2 file on 24Apr14.
+* I meant to email a video of my Part 1 functionality to Dr. Neebel on the evening of 18 Apr, however I failed to do so. He did see my functionality video the following class period, Tues 22 Apr 14. 
+* Dr. Neebel checked my PRISM Part 2 implementation on 24Apr14. 
+* Dr. Neebel checked my FPGA implementation of my PRSIM Part 2 file on 24Apr14.
 
 
 
