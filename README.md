@@ -1,8 +1,8 @@
 #####1st Program Operation
-This program loads a value of 8 into the accumulator, adds one to the number in the accumulator, then outputs that number to output port 3. It then checks to see if the number in the accumulator is negative. If the number is negative, it loops back up to the “add 1” part of the code and adds one to the value in the accumulator again. If it's not negative, it will proceed to the end of the program and loop forever.
+This program loads a value of 8 into the accumulator, adds one to the number in the accumulator, then outputs that number to output port 3. It then checks to see if the number in the accumulator is negative, i.e. if the MSB is a '1'. If the number is negative, it loops back up to the “add 1” part of the code and adds one to the value in the accumulator again. If it's not negative, it will proceed to the end of the program and loop forever.
 
 #####1st Program Instruction Cycles
-I stepped through the simulation of the testbench file and took screenshots of each instruction being executed. See below for the screenshots.
+I stepped through the simulation of the testbench file and took screenshots of each instruction being executed. See below for the screenshots. In each instance, I looked at the status of IRLd to determine when Fetch was being executed, the value of MEMSEL_L for Decode (which occured for one clock cycle after Fetch had completed), and what I looked at during Execute depended on what OpCode was being executed. An example of this is shown in the Jump Negative waveform (JN below). 
 ######LDAI
 ![LDAI](https://github.com/JasonPluger/Lab5_Pluger/blob/master/part1_waveform1_ldai.JPG?raw=true "Instruction 1")
 ######ADDI
